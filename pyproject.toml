@@ -29,8 +29,8 @@ dependencies = ["Pillow>=10.0"]
 dev = ["build>=1.2", "pytest>=8.0", "twine>=5.0"]
 
 [project.urls]
-Homepage = "https://github.com/your-username/tv-static-gif"
-Issues = "https://github.com/your-username/tv-static-gif/issues"
+Homepage = "https://github.com/Anderson-Landim/tv-static-gif"
+Issues = "https://github.com/Anderson-Landim/tv-static-gif/issues"
 
 [project.scripts]
 tv-static-gif = "tv_static_gif.cli:main"
